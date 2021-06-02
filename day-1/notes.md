@@ -1,4 +1,4 @@
-#Day one notes
+#Day One Notes
 
 ###Markdown links are very easy! 
 
