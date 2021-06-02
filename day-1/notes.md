@@ -1,6 +1,6 @@
-#Day One Notes
+# Day One Notes
 
-###Markdown links are very easy! 
+### Markdown links are very easy! 
 
 - **ACP**:
     - **Add**: git add .
@@ -9,12 +9,19 @@
     - **Push**: git push
 
 
- ##GIT WORKFLOW:
+ ## GIT WORKFLOW:
 
 
  **Add (Staging)** >> **Commit (Saving)** >> **Push (Publishing/uploading)**
 
- - CMD+, to edit settings in VS Code
+
+# VS Code
+ - CMD+ , : Edit settings
+ - CMD + SHIFT + P : Settings Shortcuts
+
+ To Do:
+ * Install Live Server extension
+ * Add Table formatting
 
 
 [Back to Readme](../README.md)
