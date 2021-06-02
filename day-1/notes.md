@@ -1,27 +1,35 @@
-# Day One Notes
+# Alchemy Code Lab: Dev 101 / Day One 
+6/1/2021
 
-### Markdown links are very easy! 
+* Be careful with double quotes and special chars. 
+* CMD + C to get out of Q world (Abort Process? Close program?)
+* Markdown Link Syntax: (Link Title)[Link Path]
 
-- **ACP**:
-    - **Add**: git add .
-    - **Commit**: git commit m-'comments here'
-        - Using double quotes and a bang (!) sends you to scary Q world, cmd+C to use escape rope!
-    - **Push**: git push
+***
+
+|**Git Workflow**    |                |               |
+|------------|--------------------------|--------------------------------------------------|
+| **Add**    | git add .                | Moves content to 'staging' area                  |
+| **Commit** | git commit -m 'comments' | Saves content, add comments to each file version |
+| **Push**   | git push                 | Publish/Upload content to Github  
+
+***
 
 
- ## GIT WORKFLOW:
-
-
- **Add (Staging)** >> **Commit (Saving)** >> **Push (Publishing/uploading)**
-
-
-# VS Code
+## VS Code
  - CMD+ , : Edit settings
  - CMD + SHIFT + P : Settings Shortcuts
 
  To Do:
- * Install Live Server extension
- * Add Table formatting
+
+ * Figure out how to add page breaks/paragraphs in markdown
+
+
+**Tomorrow** 6/2/21
+* HTML/CSS
+* CSS Grid
+* Install Live Server extension
+* Github repository: Github login markdown 
 
 
 [Back to Readme](../README.md)
