@@ -67,6 +67,68 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 * Brave browser? 
 
+***
+***
+
+
+* Cant add font-weight to arial black?
+
+* CSS Font-stacks:
+https://css-tricks.com/snippets/css/font-stacks/
+
+** stuff can take a sec to update in git, sites may be cached ** 
+
+
+***
+***
+# Career Development
+
+- What is your "Why?"
+- How what past roles/work connects the dots on your resume
+    - What did people remember you for at past jobs?
+    - Why your skills are useful to the software industry
+    - Tell a story that links your past career to your future
+
+- LinkedIn
+- Twitter
+- Portfolio Site
+- Slack Channels
+    - PDX Women in Technology
+    (PDX WIT)
+    - Beers with Engineers
+    - Women Who Code
+    - Big regional list:
+        https://github.com/ladyleet/tech-community-slacks#list-of-slack-channels-for-local-communities-by-region
+- Build community, friends, relationships
+- Meetups, Networking events
+- Alchemy community
+    - Friday Hack day @ Alchemy
+- 1 on 1 covfefe dates
+- Recruiters?
+- Find Mentors
+- Volunteer
+    * Code for PDX
+- Dont act like a street canvasser
+    - Dont accost people
+    - Get people to talk about themselves
+- Make other people feel good
+    * Treat people well and be curious and nice
+    * ~ Be Yourself ~
+- Its about learning as much as you can about the industry 
+    * Its not about asking for a job
+* Friends of Friends
+* Put yourself out there in the world and it will come back a million million times
+* Be Targeted
+    * Dont "shotgun" approach (they mean "birdshot")
+
+
+***
+***
+***
+## Back to JS
+
+* CMD + / - Comment/Uncomment in VS Code in HTML, CSS and Javascript
+* Clean up your code before submitting- dont have console logs and debugging things all over the place
 
 
 
