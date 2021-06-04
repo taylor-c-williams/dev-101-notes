@@ -2,6 +2,7 @@
 **Dev 101** 6/2/2021
 ***
 
+
 * Clone repository: git clone (URL)
 * TAB - Auto complete in Terminal
 
@@ -130,6 +131,10 @@ https://css-tricks.com/snippets/css/font-stacks/
 * CMD + / - Comment/Uncomment in VS Code in HTML, CSS and Javascript
 * Clean up your code before submitting- dont have console logs and debugging things all over the place
 
+
+
+
+[Back to Readme](../README.md) 
 
 
 
