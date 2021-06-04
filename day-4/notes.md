@@ -1,9 +1,14 @@
-Day 4 Notes
+Day 4 Notes 
 6/4/21
 
 [Software Engineers Pool @ Rialto w/ Eve](https://www.meetup.com/Software-engineers-talent-pool/)
 [PDX Wit](https://www.pdxwit.org/)
 [Women Who Code Portland](https://www.womenwhocode.com/portland)
+
+Leigh-Ann Crivella on LinkedIn - Ian’s roommate
+Eve Stockstill - Rialto/APA/Mike G
+
+6/18 2pm final presentation Alchemy Graduation stuff 
 
 * LinkedIn 
 	* Personal LinkedIn Bio
@@ -28,5 +33,3 @@ Day 4 Notes
 
 * write down what you’ve learned each week/journaling
 * Prepare for a routine
-
-[Back to Readme](../README.md)
