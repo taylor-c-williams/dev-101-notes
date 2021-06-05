@@ -33,3 +33,22 @@ Eve Stockstill - Rialto/APA/Mike G
 
 * write down what you’ve learned each week/journaling
 * Prepare for a routine
+
+
+***
+
+## Agile
+	* Agile is a Philosophy 
+		* Scrum is a methodology 
+-> ~Sprint~ And agreed upon period of time in which everyone decides what will be accomplished. Very defined periods of time. 
+		- Bugs etc.
+		* Sprint Velocity - Average of how much a team can accomplish during a sprint, based on an order of importance scale
+
+
+***
+## Branches
+	* Pull Request
+		* **Pull** requests let you tell others about changes you’ve pushed to a GitHub repository. Once a **pull request** is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
+
+***
+Oh My Zsh
